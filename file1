@@ -3,5 +3,11 @@ java
 python
 ruby
 rust
+<<<<<<< HEAD
 GO
 Oracle
+=======
+numpy
+sql
+
+>>>>>>> refs/remotes/origin/main
